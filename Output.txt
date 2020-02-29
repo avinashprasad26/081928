@@ -1,0 +1,80 @@
+Microsoft Windows [Version 10.0.16299.192]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+C:\Users\AVINASH>cd Desktop
+
+							OUTPUT FOR THE GIVEN ASSIGNMENT
+
+
+
+C:\Users\AVINASH\Desktop>Asn01P05 3
+
+ The basic operation for this program is DIVISION.
+
+ 0 steps are used for checking prime number.
+
+ 1 rotation take place for given digit.
+
+ 3 is Circular prime.
+-------------------------------------------------------------------------------------------------------------------------------
+C:\Users\AVINASH\Desktop>Asn01P05 13
+
+ The basic operation for this program is DIVISION.
+
+ 4 steps are used for checking prime number.
+
+ 2 rotation take place for given digit.
+
+ 13 is Circular prime.
+-------------------------------------------------------------------------------------------------------------------------------
+C:\Users\AVINASH\Desktop>Asn01P05 103
+
+ The basic operation for this program is DIVISION.
+
+ 27 steps are used for checking prime number.
+
+ 3 rotation take place for given digit.
+
+ 103 is Circular prime.
+-------------------------------------------------------------------------------------------------------------------------------
+C:\Users\AVINASH\Desktop>Asn01P05 1193
+
+ The basic operation for this program is DIVISION.
+
+ 132 steps are used for checking prime number.
+
+ 4 rotation take place for given digit.
+
+ 1193 is Circular prime.
+--------------------------------------------------------------------------------------------------------------------------------
+C:\Users\AVINASH\Desktop>Asn01P05 1192
+
+ The basic operation for this program is DIVISION.
+
+ 0 steps are used for checking prime number.
+
+ 1 rotation take place for given digit.
+
+ 1192 not a Circular prime.
+
+
+           				
+						 ** THE BASIC OPERATION INVOLVED IN THIS PROGRAM IS DIVISION. **
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
